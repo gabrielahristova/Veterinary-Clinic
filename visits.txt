@@ -1,1 +1,0 @@
-Date: 2025-04-17 | Animal: Max (dog, 4 years) | Owner: Gabriela (0882754142) | Doctor: Ivanov | Problem: korem | Treatment: Medication:  aspirin, days:  2, dosage: 1 ml a day.
